@@ -61,8 +61,8 @@ UI-focused app with clean design
 
 ## 🚀 Let's Connect
 
-📫 Reach me: *(add your email here)*
-💼 LinkedIn: *(add your link here)*
+📫 Reach me: *(pragatijadhv7058@gmail.com)*
+💼 LinkedIn: *([add your link here](https://www.linkedin.com/in/pragatijadhav7058))*
 
 ---
 
