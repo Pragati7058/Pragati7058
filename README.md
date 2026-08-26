@@ -121,28 +121,9 @@ MongoDB       ███████████░░░░░░░░░  when
 
 <br/>
 
----
 
-## 04 / ACTIVITY
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Pragati7058&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pragati7058&theme=react&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="48%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pragati7058&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true" width="100%"/>
-
-</div>
-
-<br/>
-
-> If any card above shows blank or "Error" — GitHub's stat services occasionally rate-limit or need the repo/profile to be public with some activity. Refresh the page after a minute, or replace `Pragati7058` with your exact GitHub username if it differs.
-
-<br/>
-
----
-
-## 05 / REACH ME
+## 04 / REACH ME
 
 <br/>
 
